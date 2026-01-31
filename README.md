@@ -15,7 +15,10 @@ Using a cleaned dataset of top roller coasters from Makeover Monday, I built an 
 ## 📁 Project Files
 - `data/` – Dataset used for the analysis  
 - `dashboard/` – Tableau packaged workbook (.twbx)  
-- `presentation/` – PDF version of the presentation  
+- `presentation/` – PDF version of the presentation
+
+## 📌 Dataset Source
+The dataset used in this project was sourced from **Makeover Monday**, a community-driven data visualization initiative that provides curated datasets for learning and practice.
 
 ## 🔍 Key Takeaways
 - Roller coaster drops are much taller than they sound.
