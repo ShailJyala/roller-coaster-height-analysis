@@ -2,7 +2,7 @@
 
 This project explores the tallest roller coaster drops in the world and where they are located geographically.
 
-Using a cleaned dataset of top roller coasters, I built an interactive Tableau dashboard and a short presentation to analyze:
+Using a cleaned dataset of top roller coasters from Makeover Monday, I built an interactive Tableau dashboard and a short presentation to analyze:
 - The tallest drops vs total ride height
 - Geographic distribution of extreme roller coasters
 - Why most of the world’s biggest drops are located in the USA
